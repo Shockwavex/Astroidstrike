@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Asteroid Strike</string>
+
+    <string name="app_name">AsteroidStrike</string>
+    <string name="action_settings">Settings</string>
 </resources>
