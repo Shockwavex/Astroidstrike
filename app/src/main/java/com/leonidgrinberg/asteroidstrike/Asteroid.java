@@ -8,7 +8,7 @@ import java.util.Random;
 
 public class Asteroid {
     //public float x, y;
-    public float speed;
+    public float speed;//test
     public float vx;
     public int health;
 
